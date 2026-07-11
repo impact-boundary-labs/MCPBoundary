@@ -1,8 +1,8 @@
-# MCP Boundary v0.1.2 Release Package License
+# MCP Boundary v0.2.3 Release Package License
 
 Copyright (c) 2026 Impact Boundary Labs. All rights reserved.
 
-This license applies to the MCP Boundary v0.1.2 release packages unless a file
+This license applies to the MCP Boundary v0.2.3 release packages unless a file
 or directory is covered by a more specific license notice.
 
 ## Release Artifacts
@@ -10,8 +10,8 @@ or directory is covered by a more specific license notice.
 The release artifacts are source-free local binary packages:
 
 ```text
-mcpboundary-v0.1.2-windows-amd64.zip
-mcpboundary-v0.1.2-linux-amd64.tar.gz
+mcpboundary-v0.2.3-windows-amd64.zip
+mcpboundary-v0.2.3-linux-amd64.tar.gz
 ```
 
 They contain the platform executable (`mcpboundary.exe` on Windows or
@@ -22,11 +22,14 @@ Boundary Core.
 ## Permitted Use
 
 You may use the release packages locally for evaluation, local MCP server
-wrapping, integration testing, and demonstrations of the documented v0.1.2
+wrapping, integration testing, and demonstrations of the documented v0.2.3
 boundary flow.
 
 You may configure your own local MCP servers to run through MCP Boundary,
 subject to the documented limitations.
+
+Private use and evaluation are free of charge. Commercial production use by
+companies requires a paid license from Impact Boundary Labs.
 
 ## Restrictions
 
@@ -48,7 +51,7 @@ email provider, does not use provider credentials, and does not send real email.
 
 ## Documentation
 
-Documentation included in this release is provided for use of the v0.1.2
+Documentation included in this release is provided for use of the v0.2.3
 release packages and is governed by these release terms unless Impact Boundary
 Labs publishes different documentation terms.
 

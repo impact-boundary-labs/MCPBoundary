@@ -1,7 +1,7 @@
-# MCP Boundary v0.1.2 Release Terms
+# MCP Boundary v0.2.3 Release Terms
 
 These terms describe the intended public release scope for the MCP Boundary
-v0.1.2 local binary packages.
+v0.2.3 local binary packages.
 
 ## What This Release Is
 
@@ -11,8 +11,8 @@ local MCP servers through MCP Boundary on the supported packaged platforms.
 Included public artifacts:
 
 ```text
-mcpboundary-v0.1.2-windows-amd64.zip
-mcpboundary-v0.1.2-linux-amd64.tar.gz
+mcpboundary-v0.2.3-windows-amd64.zip
+mcpboundary-v0.2.3-linux-amd64.tar.gz
 ```
 
 Each package includes:
@@ -45,9 +45,12 @@ You may use this release locally to:
 - try the simulated Local Email Demo
 - wrap configured local MCP servers
 - inspect setup, tools, policy, and activity through the localhost dashboard
-- test local integrations against the documented v0.1.2 behavior
+- test local integrations against the documented v0.2.3 behavior
 
 Only calls routed through MCP Boundary are covered by the Boundary path.
+
+Private use and evaluation are free of charge. Commercial production use by
+companies requires a paid license from Impact Boundary Labs.
 
 ## Provider Credentials
 
@@ -66,7 +69,7 @@ explicit written permission from Impact Boundary Labs.
 
 ## Warranty and Production Scope
 
-This release is provided as-is. It is intended for scoped local v0.1.2 usage.
+This release is provided as-is. It is intended for scoped local v0.2.3 usage.
 It does not make production-grade security, hosted operation, durable audit,
 semantic correctness, human-review replacement, or exactly-once execution
 claims.

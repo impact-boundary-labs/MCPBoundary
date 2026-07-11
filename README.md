@@ -20,7 +20,7 @@ MCP Boundary sits between your MCP client and your local MCP servers. Your agent
 
 ## Download
 
-Windows and Linux builds with SHA-256 checksums (current release **v0.1.3**):
+Windows and Linux builds with SHA-256 checksums (current release **v0.2.3**):
 → https://mcpboundary.com
 
 Quick start from an extracted package — Windows: `.\mcpboundary.exe quickstart email` · Linux: `./mcpboundary quickstart email`
