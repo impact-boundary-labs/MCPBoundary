@@ -1,10 +1,10 @@
 # Third-Party Notices
 
-This file covers the MCP Boundary v0.1.2 Windows and Linux release packages:
+This file covers the MCP Boundary v0.2.3 Windows and Linux release packages:
 
 ```text
-mcpboundary-v0.1.2-windows-amd64.zip
-mcpboundary-v0.1.2-linux-amd64.tar.gz
+mcpboundary-v0.2.3-windows-amd64.zip
+mcpboundary-v0.2.3-linux-amd64.tar.gz
 ```
 
 ## Scope
